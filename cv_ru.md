@@ -12,10 +12,10 @@ Lead/Senior Unity-разработчик с опытом в multiplayer, gamepla
 
 ## Ключевая экспертиза
 - Leadership: развитие команды, ревью, техническое наставничество, синхронизация со смежными отделами
-- Unity/C#: gameplay architecture, UI architecture, оптимизация производительности
-- Multiplayer: клиентская логика, интеграция с backend, socket-взаимодействие
+- Unity/C#: архитектура, ECS, анимации, оптимизация производительности
+- Multiplayer: клиент-серверная логика, реалтайм мультиплеер
 - Meta и LiveOps: прогрессия, награды, контентные системы, внутренние тулзы
-- UI: UGUI/NGUI, анимации интерфейса, DOTween
+- UI: UGUI, оптимизация, анимации, DOTween
 
 ## Опыт работы
 ### OneUp Games - Unity Developer
