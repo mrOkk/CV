@@ -2,13 +2,12 @@
 ## Lead/Senior Game Developer
 
 ## Контакты
-- Локация: Россия
-- Формат: гибрид / удаленно
+- Формат: удаленно / гибрид
 - LinkedIn: https://www.linkedin.com/in/ok-kop/
 - Telegram: https://t.me/mr_okk
 
 ## Профиль
-Lead/Senior Unity-разработчик с опытом в multiplayer, gameplay, UI и meta-системах. Руководил UI-группой, выстраивал процессы разработки, проводил code/performance review и менторил разработчиков. Фокус на балансе между производительностью системы, чистыми архитектурными решениями и эффективностью разработки.
+Lead/Senior Unity-разработчик с опытом разработки от матч-3 до больших мультиплеерных шутеров, как на PC, так и под мобильные платформы. Работал с анимациями, final IK, UI, Dotween, системами работы с ассетами, так и с addressable, писал JobSystem. Разрабатывал как в классическом объектном стиле в MVC, MVVM архитектуре, так и используя ECS фреймворки. Руководил UI-группой, выстраивал процессы разработки, проводил code/performance review и менторил разработчиков. Мой фокус на балансе между производительностью системы, чистыми архитектурными решениями и эффективностью разработки.
 
 ## Опыт работы
 ### OneUp Games - Unity Developer
@@ -34,7 +33,7 @@ Lead/Senior Unity-разработчик с опытом в multiplayer, gamepla
 - Зона ответственности:
   - Руководство группой UI-разработки
   - Планирование и delivery фич
-  - Взаимодействие с art, backend, development, продюсерами и менеджментом
+  - Взаимодействие с менеджментом, продюссерами, другими фиче-командами, артом и backend
   - Code review и performance review
   - Менторство и онбординг сотрудников
   - Выстраивание эффективного процесса разработки в период миграции между системами трекинга задач
@@ -46,16 +45,22 @@ Lead/Senior Unity-разработчик с опытом в multiplayer, gamepla
   - Реализация core-логики match-3. Отдельный самостоятельный модуль.
   - Реализация сетевого взаимодействия через websocket
   - Интеграция Spine-анимации героев
-  - Разработка live-ops системы для масштабируемого добавления героев
+  - Разработка live-ops системы для добавления героев с использованием addressables
   - Интеграция VFX для боевых действий
-  - Кросс-функциональная коммуникация с продактом, геймдизайном, артом и backend
+  - Взаимодействие с менеджментом, геймдизайном, артом и backend
   - Наставничество junior-разработчиков
 
 ### Battlestate Games - Unity Developer
 - Период: Jun 2018 - Nov 2021
 - Проект: Escape from Tarkov
 - Зона ответственности:
-  - Разработка meta-направления: барахолка (p2p-магазин), убежище, квесты, инвентарь, кастомизация
+  - Разработка meta-направления
+    - барахолка (p2p-магазин)
+    - убежище
+    - квесты
+    - инвентарь
+    - кастомизация
+    - сборка оружия
   - Подключение к задачам core-геймплея по мере необходимости
 
 ### Versus Games - Fullstack game developer (Unity+asp.net)
@@ -75,13 +80,13 @@ Lead/Senior Unity-разработчик с опытом в multiplayer, gamepla
   - CI/CD: GitLab + TeamCity
 
 ### Дополнительный опыт
-- DIRECTUM (Xamarin Developer, .NET/WPF Developer, Developer)
+- DIRECTUM (Xamarin Developer, .NET/WPF Developer)
 - Nosorog Studio (Mobile Developer)
 - Center of High Technologies (Windows Phone Developer)
 
 ## Образование
-- Izhevsk State Technical University (ISTU)
-- Specialist, Comprehensive Information Security of Automated Systems
+- Ижевский государственный технический университет (ИжГТУ)
+  - Специалитет. Комплексное обеспечение информационной безопасности автоматизированных систем
 
 ## Сертификации
 - Microsoft: XAML Deep Dive for Windows & Windows Phone Apps Jump Start
@@ -90,7 +95,3 @@ Lead/Senior Unity-разработчик с опытом в multiplayer, gamepla
 ## Языки
 - Русский
 - Английский
-
-## Дополнительно
-Люблю иногда поучаствовать в гейм джемах
-- LD profile: https://ldjam.com/users/okk/
